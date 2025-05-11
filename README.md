@@ -10,3 +10,5 @@ To install the required libraries in a new virtual environment, run `conda env c
 directory. This will install the  libraries into a virtual env that can be activated with `conda activate discovering-disease-outbreaks`. 
 
 The data is located at `data/headlines.txt`. Run `jupyter notebook` to start a Jupyter Notebook and get coding!
+
+
